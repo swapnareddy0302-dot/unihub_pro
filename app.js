@@ -1035,7 +1035,7 @@
         <section class="panel">
           <h2>Notices & Brochures</h2>
           <div class="notice">
-            <strong>Welcome to UniHub — Campus Connect</strong>
+            <strong>Welcome to UniHub — Easy Campus</strong>
             <p>This demo area is ready for campus announcements and brochures.</p>
           </div>
         </section>`;
